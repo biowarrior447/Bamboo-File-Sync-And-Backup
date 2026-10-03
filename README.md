@@ -208,4 +208,4 @@ Bamboo File Sync and Backup is offered as a full free version with all features 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-03 18:32:35 UTC
+**Last updated:** 2026-10-03 21:53:04 UTC
